@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3rsXftSle"
+#define BLYNK_TEMPLATE_ID "YOUR TEMPLATE ID"
 #define BLYNK_TEMPLATE_NAME "Blind Stick"
-#define BLYNK_AUTH_TOKEN "B_pQM-WZANFIvL8xFk2UkiCQqGa_Sjh2"
+#define BLYNK_AUTH_TOKEN "YOUR TOKEN"
 
 #include <Wire.h>
 #define BLYNK_PRINT Serial
