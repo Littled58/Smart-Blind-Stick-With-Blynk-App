@@ -17,8 +17,8 @@ int angleChange=0;
 
 // WiFi info
 char auth[] = BLYNK_AUTH_TOKEN;
-const char *ssid = "Sudo"; 
-const char *pass = "astronaut";
+const char *ssid = "YOUR HOSTSPOT NAME"; 
+const char *pass = "YOUR HOTSPOT PASSWORD";
 
 // Ultrasonic sensor pins
 const int trigPin=12, echoPin=14, buzzerPin=13;
