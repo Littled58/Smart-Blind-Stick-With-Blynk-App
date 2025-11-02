@@ -1,3 +1,19 @@
-1)DOWNLOAD THE BLYNK APP FROM PLAYSTORE 
-2)THEN CREATE A NEW PROJECT IN IT 
-3)TURN ON YOUR HOTSPOT AND KEEP IT AT 2.4Ghz
+--How to Connect the Smart Stick to Blynk
+
+1) Install the Blynk IoT App from the Play Store / App Store
+
+2) Create a New Blynk Project and note your Auth Token
+
+3) Set your mobile hotspot to 2.4 GHz network mode
+
+4) Enter Wi-Fi name and password in the code (ssid & pass)
+
+5) Paste the Auth Token into the Arduino code
+
+6) Upload the code to the ESP8266 board
+
+7) Power the device (USB or power bank)
+
+8) Device will automatically connect to Blynk Cloud
+
+9) Open the Blynk app to monitor alerts and notifications
